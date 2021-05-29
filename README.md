@@ -1,2 +1,2 @@
 # Python-Games
-This is a small rock, paper, scissors game that I made as the first project of my own on Python
+This repository is meant to house the Python projects I have made to test my skills with the language
